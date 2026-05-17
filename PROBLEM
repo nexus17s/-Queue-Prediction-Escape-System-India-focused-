@@ -1,0 +1,23 @@
+<h>🧨 Real Problem:</h>
+
+People waste hours standing in queues:
+
+Hospitals
+Government offices
+Ration shops
+Banks
+
+👉 No system tells:
+
+How long the wait actually is
+When to go to avoid crowd
+💡 Your Project:
+
+Build a system that:
+
+Uses camera / crowd density / user check-ins
+Predicts real-time waiting time
+Suggests best time to visit
+🔥 Unique Angle:
+
+👉 “Google Maps for queues” — but this doesn’t exist in real deployment
